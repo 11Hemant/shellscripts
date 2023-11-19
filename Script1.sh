@@ -7,5 +7,4 @@ echo "Best class of AWS/DevOps"
 echo "We are learning git"
 echo "We are done with git"
 echo "we have started our devops-git/github topic."
-hi
-hi
+by
